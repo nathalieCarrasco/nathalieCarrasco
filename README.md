@@ -2,8 +2,8 @@
 
 <h1 align="center">Hola... Soy Nathalie</h1>
 <h3 align="center">  me gusta estar en constante aprendizaje en diversas tecnologías que me ayuden a crecer y desarrollarme en el mundo TI , poseo persistencia , orientación al detalle .
- Disfruto mucho del trabajo en equipo y colaborativo <br>
-tendencia más cercana  al lado front-end con frameworks desarrollados en vue.js y react 
+ Disfruto mucho del trabajo en equipo y colaborativo 
+tendencia más cercana  al lado front-end con frameworks como vue.js y react <br>
 ¿Tienes un desafío para mí ? ....hablemos
   </h3>
 
