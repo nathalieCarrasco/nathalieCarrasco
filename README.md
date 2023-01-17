@@ -9,6 +9,8 @@ tendencia más cercana  al lado front-end con frameworks desarrollados en vue.js
 
 - 📫 Me puedes escribir a mi correo : **carrascocampos.na@gmail.com**
 
+  <img align="right" alt="GIF" src="https://media2.giphy.com/media/px9v45I39CcxyXPqEy/giphy.gif?cid=ecf05e472f8wa3981ga9ikem0jrxs6layutt9qh3uaysy8xr&rid=giphy.gif&ct=g" width="500" height="320" />
+
 **lenguajes & Herramientas:**  
 
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
